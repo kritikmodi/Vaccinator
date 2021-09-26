@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770403770768",
+    "project_id": "vaccine-slots-f08a3",
+    "storage_bucket": "vaccine-slots-f08a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770403770768:android:de25e5f79eff69f9a55315",
+        "android_client_info": {
+          "package_name": "com.example.vaccinator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770403770768-olvgn67h33ds1gtt0h4f8bepv2778iip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgehMrlb0jx-MbkBDdNuXmfXus9uDbw7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770403770768-olvgn67h33ds1gtt0h4f8bepv2778iip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
